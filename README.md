@@ -55,8 +55,6 @@ The `results_data.csv` file contains the performance metrics for each combinatio
 * The performance of different clustering algorithms on the raw and reduced data.
 * The trade-offs between training time, execution time, and clustering performance.
 
-> **Σημείωση:** *Συμπεριέλαβε εδώ μια σύνοψη των βασικών σου ευρημάτων με βάση τα αποτελέσματα και τις οπτικοποιήσεις. Για παράδειγμα, ποιος συνδυασμός απέδωσε καλύτερα σύμφωνα με κάθε μετρική και γιατί πιστεύεις ότι συνέβη αυτό;*
-
 ---
 
 ## 📂 Code Structure
